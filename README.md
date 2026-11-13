@@ -1,7 +1,26 @@
 # Hi, I'm Jake 👋
 
-I'm a developer building projects to grow my software engineering skills. I'm interested in software development, web development, automation, APIs, and system administration, and I plan to pursue a Computer Science degree.
+I'm a developer interested in building software, exploring new technologies, and solving practical problems through code.
 
-## What I'm learning and building
+I'm focused on growing my skills as a software engineer through personal projects, experimentation, and hands-on development. I'm also planning to pursue a degree in Computer Science.
 
-I use personal projects to explore ideas, practice writing maintainable code, and document what I learn. My current interests include Python, automation, APIs, and tools that solve practical problems.
+## Languages & Technologies
+
+- Python
+- JavaScript
+- PHP
+- HTML
+- CSS
+
+## What I Enjoy Building
+
+- Web applications and websites
+- Automation and practical tools
+- API integrations
+- Linux and system administration
+- Experimenting with new technologies
+
+## Projects
+
+Check out my pinned repositories to see what I've been building.
+
