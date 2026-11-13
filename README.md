@@ -12,7 +12,7 @@ I'm focused on growing my skills as a software engineer through personal project
 - HTML
 - CSS
 
-## What I Enjoy Building
+## Areas of Interest
 
 - Web applications and websites
 - Automation and practical tools
