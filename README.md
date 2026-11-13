@@ -16,6 +16,7 @@ I'm focused on growing my skills as a software engineer through personal project
 
 - Web applications and websites
 - Automation and practical tools
+- Reverse engineering and figuring out how software works
 - API integrations
 - Linux and system administration
 - Experimenting with new technologies
